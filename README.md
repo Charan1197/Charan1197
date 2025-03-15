@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charan1197" alt="charan1197" /></a> </p>
 
-- 🔭 I’m currently working on [A Basic Music player website](https://vibetunes.freewebhostmost.com/)
+<!---- 🔭 I’m currently working on [A Basic Music player website](https://vibetunes.freewebhostmost.com/) --->
 
 - 🌱 I’m currently learning **Full Stack Development**
 
