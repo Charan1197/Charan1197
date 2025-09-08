@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/charan-kolapalli-b19692250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charan kolapalli" height="30" width="40" /></a>
-<a href="https://instagram.com/charan_kolapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charan_kolapalli" height="30" width="40" /></a>
+<a href="https://instagram.com/CharanKolapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="CharanKolapalli" height="30" width="40" /></a>
 <a href="https://discord.gg/jBW8S6avp8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jBW8S6avp8" height="30" width="40" /></a>
 </p>
 
