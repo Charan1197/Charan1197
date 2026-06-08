@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan1197&label=Profile%20views&color=0e75b6&style=flat" alt="charan1197" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charan1197" alt="charan1197" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charan1197" alt="charan1197" /></a> </p> -->
 
 <!---- 🔭 I’m currently working on [A Basic Music player website](https://vibetunes.freewebhostmost.com/) --->
 
@@ -25,7 +25,8 @@
 
 
 ###  Featured Projects
-- **VibeTunes** — A music streaming UI built with **Tailwind CSS**.
+- **SkillGapAI** — AI-powered skill gap analyzer that compares a candidate's resume with a job description and generates a personalized learning roadmap.
+- **Amazon Web Scrapper** - A Python web scraper using Selenium, BeautifulSoup, and Pandas to collect product data from Amazon search results."
   
 - **X.com UI Clone** — Twitter-like interface clone using **Tailwind CSS**.
   
@@ -33,8 +34,8 @@
     
 - **Twitter Analytics Dashboard** — Power BI project from my training at NULL Class Technologies; visualized key social media metrics.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charan1197&show_icons=true&locale=en&layout=compact" alt="charan1197" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charan1197&show_icons=true&locale=en&layout=compact" alt="charan1197" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charan1197&show_icons=true&locale=en" alt="charan1197" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charan1197&show_icons=true&locale=en" alt="charan1197" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charan1197&" alt="charan1197" /></p>
