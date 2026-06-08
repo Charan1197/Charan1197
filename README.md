@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **creating simple web applications, programming in C and Python**
+- 💬 Ask me about **creating Full Stack web applications and Python**
 
 - 📫 How to reach me **kolapallicharan@gmail.com**
 
